@@ -7,8 +7,9 @@
 
 <p>🔭 Projects I made</p>
 <ul>
-<li><a href="https://abhishekbankar28.github.io/Password_Generator/"target="_blank">Password Generator</a></li>
-<li><a href="https://abhishekbankar28.github.io/Html-portfolio/"target="_blank">Portfolio website</a></li>
+  <li><a href="https://abhishekbankar28.github.io/Password_Generator/"target="_blank">Password Generator</a></li>
+  <li><a href="https://abhishekbankar28.github.io/Html-portfolio/"target="_blank">Simon Game</a></li>
+  <li><a href="https://abhishekbankar28.github.io/Simon_game/"target="_blank">Portfolio Website</a></li>
 </ul>
 
 
