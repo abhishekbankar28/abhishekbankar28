@@ -32,13 +32,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/abhishek.bankar" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="30" height="30" />
   </a>
   <a href="https://instagram.com/_abhiii28_" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-bankar-8b43891b8/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" />
   </a>
 </p>
 
