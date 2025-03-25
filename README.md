@@ -37,6 +37,11 @@
   <a href="https://instagram.com/_abhiii28_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhiii28_" height="30" width="40" />
   </a>
+  <!-- LinkedIn Icon -->
+<a href="https://www.linkedin.com/in/abhishek-bankar-8b43891b8/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
