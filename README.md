@@ -59,5 +59,14 @@
  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Software" width="40" height="40"/>
 </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+</a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="JS Libraries (npm)" width="40" height="40"/>
+</a>
 </p>
 
