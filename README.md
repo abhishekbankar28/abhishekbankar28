@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Data Science Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Abhishek Bankar</h1>
 <h3 align="center">A passionate IT Engineering student from India</h3>
@@ -25,7 +23,7 @@
 
 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI Techniques**
 
-💬 Ask me about **Python, Data Analysis, Machine Learning and AI**
+💬 Ask me about **Python, Html, Css, JavaScript, Machine Learning and Deep Learning**
 
 📫 How to reach me **abhishekbankar2803@gmail.com**
 
@@ -38,9 +36,6 @@
   </a>
   <a href="https://instagram.com/_abhiii28_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhiii28_" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/abhishekb2803" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekb2803" height="30" width="40" />
   </a>
 </p>
 
