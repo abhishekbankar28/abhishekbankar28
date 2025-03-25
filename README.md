@@ -56,8 +56,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
-  </a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Software" width="40" height="40"/>
+</a>
 </p>
 
