@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/abhishek.bankar" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/abhishek.bankar.1293" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="30" height="30" />
   </a>
   <a href="https://instagram.com/_abhiii28_" target="_blank" rel="noreferrer">
