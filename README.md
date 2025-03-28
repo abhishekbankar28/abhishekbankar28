@@ -5,8 +5,8 @@
 <p>🔭 Projects I made</p>
 <ul>
   <li>
-    <a href="https://github.com/abhishekbankar28/Toxicity-Terminator" target="_blank">
-      Toxicity Terminator
+    <a href="https://github.com/abhishekbankar28/PosiNeg-Analyzer" target="_blank">
+      PosiNeg Analyzer
     </a> - A deep learning model for toxicity classification in online comments.
   </li>
   <li>
