@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Abhishek Bankar</h1>
-<h3 align="center">A passionate IT Engineering student from India</h3>
+<h3 align="center">A passionate IT Engineer from India</h3>
 
 <p>🔭 Projects I made</p>
 <ul>
@@ -23,9 +23,9 @@
 
 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI Techniques**
 
-💬 Ask me about **Python, Html, Css, JavaScript, Machine Learning and Deep Learning**
+💬 Ask me about **Python, Data Analysis, Data Transformation**
 
-📫 How to reach me **abhishekbankar2803@gmail.com**
+📫 How to reach me **abhishekb2803@gmail.com**
 
 ⚡ Fun fact **The first-ever computer game is called Spacewar**
 
