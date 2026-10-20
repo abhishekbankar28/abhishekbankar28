@@ -19,6 +19,11 @@
       Image Captioning using CNN and LSTM
     </a> - A project that generates captions for images using CNN and LSTM models.
   </li>
+  <li>
+    <a href="https://github.com/abhishekbankar28/RetinaXAI" target="_blank">
+      RetinaXAI
+    </a> - Benchmarked DINOv2, CLIP, and ViT for retinal disease classification, evaluating generalization and explainability using Grad-CAM, HiResCAM, and expert lesion annotations.
+  </li>
 </ul>
 
 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI Techniques**
